@@ -18,7 +18,7 @@ public class _4TestWithBeforeMethod {
     WebDriver driver;
 	  @BeforeMethod
 	  public void beforeMethod() {
-	      System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+	      System.setProperty("webdriver.chrome.driver", "chromedriver");
 	      System.out.println( "Hello World!" );
 	      ChromeOptions options = new ChromeOptions();
 	      options.addArguments("--headless");
