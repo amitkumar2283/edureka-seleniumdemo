@@ -15,7 +15,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.Test;
 
-import junit.framework.Assert;
+import org.testng.Assert;
 
 public class _5TestWithBeforeClass {
     WebDriver driver;
