@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Edureka tests]">
+  <test thread-count="5" verbose="0" name="UI validation(failed)">
+    <classes>
+      <class name="demotest._5TestWithBeforeClass">
+        <methods>
+          <include name="check_URL"/>
+          <include name="check_title"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- demotest._5TestWithBeforeClass -->
+      <class name="demotest._4TestWithBeforeMethod">
+        <methods>
+          <include name="check_title"/>
+          <include name="afterMethod"/>
+          <include name="check_URL"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- demotest._4TestWithBeforeMethod -->
+    </classes>
+  </test> <!-- UI validation(failed) -->
+</suite> <!-- Failed suite [Edureka tests] -->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Edureka tests" duration-ms="115579" started-at="2019-05-04T04:15:28Z" finished-at="2019-05-04T04:17:24Z">
+    <groups>
+    </groups>
+    <test name="UI validation" duration-ms="115579" started-at="2019-05-04T04:15:28Z" finished-at="2019-05-04T04:17:24Z">
+      <class name="demotest._4TestWithBeforeMethod">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:demotest._4TestWithBeforeMethod@3f3afe78]" name="beforeMethod" is-config="true" duration-ms="44939" started-at="2019-05-04T04:15:28Z" finished-at="2019-05-04T04:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="check_URL()[pri:0, instance:demotest._4TestWithBeforeMethod@3f3afe78]" name="check_URL" duration-ms="42" started-at="2019-05-04T04:16:13Z" finished-at="2019-05-04T04:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_URL -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:demotest._4TestWithBeforeMethod@3f3afe78]" name="afterMethod" is-config="true" duration-ms="288" started-at="2019-05-04T04:16:13Z" finished-at="2019-05-04T04:16:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:demotest._4TestWithBeforeMethod@3f3afe78]" name="beforeMethod" is-config="true" duration-ms="35734" started-at="2019-05-04T04:16:14Z" finished-at="2019-05-04T04:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="check_title()[pri:0, instance:demotest._4TestWithBeforeMethod@3f3afe78]" name="check_title" duration-ms="38" started-at="2019-05-04T04:16:49Z" finished-at="2019-05-04T04:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_title -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:demotest._4TestWithBeforeMethod@3f3afe78]" name="afterMethod" is-config="true" duration-ms="100" started-at="2019-05-04T04:16:49Z" finished-at="2019-05-04T04:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- demotest._4TestWithBeforeMethod -->
+      <class name="demotest._5TestWithBeforeClass">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:demotest._5TestWithBeforeClass@7f63425a]" name="beforeMethod" is-config="true" duration-ms="33086" started-at="2019-05-04T04:16:50Z" finished-at="2019-05-04T04:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="check_URL()[pri:0, instance:demotest._5TestWithBeforeClass@7f63425a]" name="check_URL" duration-ms="59" started-at="2019-05-04T04:17:23Z" finished-at="2019-05-04T04:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_URL -->
+        <test-method status="PASS" signature="check_title()[pri:0, instance:demotest._5TestWithBeforeClass@7f63425a]" name="check_title" duration-ms="1045" started-at="2019-05-04T04:17:23Z" finished-at="2019-05-04T04:17:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_title -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:demotest._5TestWithBeforeClass@7f63425a]" name="afterMethod" is-config="true" duration-ms="138" started-at="2019-05-04T04:17:24Z" finished-at="2019-05-04T04:17:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- demotest._5TestWithBeforeClass -->
+    </test> <!-- UI validation -->
+  </suite> <!-- Edureka tests -->
+</testng-results>
